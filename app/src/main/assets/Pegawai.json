@@ -1,0 +1,22 @@
+{
+  "movies": [
+    {
+      "id": "001",
+      "name": "Bobo",
+      "birthDate": "22-01-1989",
+      "gender": "Male"
+    },
+    {
+      "id": "002",
+      "name": "Ana",
+      "birthDate": "14-12-1995",
+      "gender": "Femaleale"
+    },
+    {
+      "id": "003",
+      "name": "Anto",
+      "birthDate": "18-10-1993",
+      "gender": "Male"
+    }
+	   ]
+}
